@@ -1,7 +1,7 @@
 # Pandas Project
 
 ![Cute Panda](/Downloads/tenor.gif)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://tenor.com/search/roll-panda-gifs
 
 This time project is all about cleaning and sorting a messy dataset. Then make a hypothesis and try to defend it. 💪🏽
 
